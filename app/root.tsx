@@ -11,7 +11,7 @@ import GlobalStyle from "./styles/global";
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "dogproducts",
+  title: "remix playground",
   viewport: "width=device-width,initial-scale=1",
 });
 
